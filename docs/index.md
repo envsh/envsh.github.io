@@ -1,5 +1,13 @@
 # Fedin Notes
 
+镜像站点：
+
+   [镜像1 codeberg](https://envsh.codeberg.page)
+
+   [镜像2](https://fedin.42web.io/fedin)
+
+  [镜像3](https://envsh.github.io/fedin)
+
 Publish your public notes with MkDocs
 
 这个首页也不知道写点什么呢
