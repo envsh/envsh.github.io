@@ -1,9 +1,4 @@
-hhh
-khklbk
-jdldndkdmd
-jdjdkdkdmf
-kdkdndkdn
-这是在cb修改的
+
 
 这么使用不错，
 在codeberg创建到github的镜像，然后就可以无障碍提交了。
@@ -13,3 +8,5 @@ kdkdndkdn
 ![[IMG_20240223_145121.jpg]]
 
 这个样子的
+
+codeberg要是能从github迁移ghpages分支就更好了，这样才能更自动化的镜像静态pages站点。

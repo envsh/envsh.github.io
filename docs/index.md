@@ -1,4 +1,4 @@
-# Obsidian Notes
+# Fedin Notes
 
 Publish your public notes with MkDocs
 
