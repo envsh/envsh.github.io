@@ -2,6 +2,8 @@ MGit是安卓上的git客户端，包括大部分git命令行功能，但是只�
 
 MGit是在更早的一个SGit项目克隆。
 
-但是最近开发不太活跃了，希望还能继续完善吧。
+但是最近开发不太活跃了，希望还能继续完善吧。现在的状态，[maks](https://github.com/maks/MGit/commits?author=maks)  2 years ago !
+
+还没有看到哪个克隆项目完全接替MGit主线开发。
 
 开源地址，https://github.com/maks/MGit/
