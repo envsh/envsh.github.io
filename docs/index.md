@@ -4,7 +4,7 @@
 
    [镜像1 codeberg](https://envsh.codeberg.page)
 
-   [镜像2](https://fedin.42web.io/fedin)
+   [镜像2](http://fedin.42web.io/fedin)
 
   [镜像3](https://envsh.github.io/fedin)
 
