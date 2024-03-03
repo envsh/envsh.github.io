@@ -1,1 +1,0 @@
-chatgpt 3.5版本免费了，有几个使用方法总结一下， <br/> 1. 注册登录官方网页版，需要魔法 <br/>     https://openai.com <br/>  <br/> 2. 官方也有安卓APP下载了，在apkmirror上有，包名com.openai.chatgpt，还有图标，注意不要下载错了。 <br/>     使用需要魔法，需要最新google play服务，不然会报错，看图一的报错信息 <br/>  <br/> 3. 使用第三方的安卓AP
