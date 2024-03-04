@@ -1,6 +1,6 @@
 ---
 创建: 2024-03-03 18:23
-更新: 2024-03-03 18:29
+更新: 2024-03-03 22:29
 ---
 项目地址，
 https://github.com/XhyEax/SoftApHelper
@@ -16,3 +16,5 @@ https://github.com/XhyEax/SoftApHelper
 
 
 详细说明看项目主页吧，就记录这些了。
+
+还是要使用google搜索，使用bing两天都没有搜索到。
