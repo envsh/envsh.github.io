@@ -1,4 +1,13 @@
-
+---
+JoplinID: 4971e9f3007845b8a8e516526df97c5a
+NostrID: 16
+来源: 16
+tags:
+  - tagaa
+  - tagbb
+创建: 2024-02-22 14:24
+更新: 2024-02-22 14:29
+---
 MIUI手机管家轻微调整
 
 securecenter
@@ -7,5 +16,7 @@ securecenter
 thanox吧把服务给禁了几个，把用不到的activety禁了几个，
 还有cemiuier把扫描和root检测禁掉，也差不多了
 
-![[Screenshot_2024-02-22-14-23-48-872_github.tornaco.android.thanos.pro.png]]
 
+![Screenshot_2024-02-22-14-23-48-872_github.tornaco.android.thanos.pro.png](images/dbcd0f8376344d458bf9351d13b7f354.png)
+
+更新：2024-02-22 14:29 字数：224/348
