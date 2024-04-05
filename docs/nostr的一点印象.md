@@ -7,7 +7,7 @@ tags:
   - tagbb
   - mkdocs
 创建: 2024-02-25 08:55
-更新: 2024-03-24 17:22
+更新: 2024-04-04 23:40
 ---
 nostr的一点印象
 
@@ -24,6 +24,7 @@ nostr的一点印象
 - 里面的消息内容属实比较乱，擦边，色情，lgbt，政治，反华
 - 实时性可能不太好
 - 可玩性比较高
+-  发送消息频率快了容易被relay block
 
 
 =====
@@ -36,6 +37,18 @@ golang 库，
 
 PHP 库，
 
+### 工具
+广播event，可是没有API，
+https://nostr-broadcast.pages.dev/
+
+event解析
+https://njump.me
+
+数据导出备份
+https://nostrsync.live/
+
+一堆工具
+https://nostr-utils.pages.dev/
 
 
-更新：2024-03-24 17:22 字数：532/843
+更新：2024-04-04 23:40 字数：712/1089

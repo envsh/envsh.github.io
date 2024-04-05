@@ -7,19 +7,19 @@ tags:
   - tagbb
   - mkdocs
 创建: 2024-03-24 17:26
-更新: 2024-03-24 17:29
+更新: 2024-04-04 19:12
 ---
 # Fedin Notes
 
 镜像站点：前两个可以直接访问，
 
-   [镜像1 codeberg](https://envsh.codeberg.page)
+ •  [镜像 codeberg](https://envsh.codeberg.page)
 
-   [镜像2 42web](https://fedin.42web.io/fedin)
+•  [镜像 github](https://envsh.github.io/fedin)
 
-   [镜像3 github](https://envsh.github.io/fedin)
+•  [镜像 netlify](https://fedin.netlify.app/)
 
-   [镜像4 sourceforge](https://nullget.sourceforge.io/fedin)
+•   [镜像 sourceforge](https://nullget.sourceforge.io/fedin)
 
 
 搞个域名，好像有codeberg可以设置自己的域名。
@@ -37,4 +37,4 @@ The folders in `/docs` appear as the main sections on the navigation bar.
 The notes appear as pages within these sections. For example, [[Note 1|Note 1]] in `Topic 1`
 
 
-更新：2024-03-24 17:29 字数：570/678
+更新：2024-04-04 19:12 字数：568/684
